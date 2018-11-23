@@ -1,8 +1,8 @@
 management:
-  security:
+  security: 
     enabled: false
 
-logging:
+logging: 
   level:
     root: WARN
     com:
