@@ -6,7 +6,7 @@ logging: # <----New sections below
     level:
         root: WARN
         com:
-            orangeandbronze: INFO
+            orangeandbronze: DEBUG
 
 greeting:
     displayFortune: true
